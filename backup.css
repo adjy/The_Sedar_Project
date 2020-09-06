@@ -19,3 +19,44 @@ section
 {
 	
 	background-color: #ccc;
+}
+/*	
+nav
+{	
+	position: fixed;
+	top:0px;
+	right:0px;
+	width: 150px;
+	border: 1px solid blue;
+}
+*/
+nav ul
+{
+	list-style-type: none;
+	display:flex;
+}
+body
+{
+	font-family:'Trebuchet', Arial, sans-serif;
+	color:#181818;
+}
+#bloc_page
+{
+	width:900px;
+	margin:auto;
+}
+header
+{
+	display: flex;
+	justify-content:space-between;
+	align-items: flex-end;
+	right:0px;
+	position: fixed;
+	top:0px;
+}
+#logo
+{
+	display:flex;
+	flex-direction:row;
+	align-items:baseline;
+}

@@ -2,3 +2,7 @@
 
 
 aside
+textarea =c pour un champs tres gros
+<textarea rows="5" cols="100"> </textarea>
+
+type email, url, tel ,number, range, color, date, search, checkbox, radio, submit

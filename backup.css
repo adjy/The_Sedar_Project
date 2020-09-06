@@ -5,16 +5,20 @@
 	font-family: Impact, "Arial Black";
 }
 */
-h1, h3
-{
-	font-family: Arial;
-}
+/*
 p
 {
 	border: 3px blue solid ;
 	border-radius: 10px 5px 10px 5px;
 }
-
+*/
+#about
+{
+	display: flex;
+	justify-content:space-between;
+	align-items: flex-end;
+	
+}
 section
 {
 	
@@ -35,6 +39,12 @@ nav ul
 	list-style-type: none;
 	display:flex;
 }
+nav
+{
+	right:10px;
+	position: fixed;
+	top:2px;
+}
 body
 {
 	font-family:'Trebuchet', Arial, sans-serif;
@@ -50,9 +60,7 @@ header
 	display: flex;
 	justify-content:space-between;
 	align-items: flex-end;
-	right:0px;
-	position: fixed;
-	top:0px;
+	
 }
 #logo
 {

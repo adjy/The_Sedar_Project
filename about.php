@@ -17,9 +17,9 @@
 		<nav>
 			<ul>
 				<h4>
-					<li><a href="index.html">Acceuil</a></li>
-					<li><a href="contact.html">Contact</a></li>
-					<li><a href="about.html">About</a></li>
+					<li><a href="index.php">Acceuil</a></li>
+					<li><a href="contact.php">Contact</a></li>
+					<li><a href="about.php">About</a></li>
 				</h4>
 			</ul>
 		</nav>
@@ -39,7 +39,7 @@
 			I learned the basics of some programming languages ​​such as Python, c ++. I realized small programs like a game of chance with a draw of a number at random, I also realized a program to give the roots of the numbers of the second degree.<br><br>
 
 			opps! I almost forgot I'm learning Html, CSS, as you can guess because this site is my creation.<br><br>
-			Other passions besides programming?
+			Other passions besides programming?<br><br>
 			Uh !! yes, I also play console, mobile games, such as Call of duty, Pubg mobile, FIFA, Brawls Stars.<br><br>
 
 			In the future, I would like to be a Data Scientist specialist, work in a big company like GOOGLE, then later have my own company.

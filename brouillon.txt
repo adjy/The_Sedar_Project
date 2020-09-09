@@ -6,3 +6,6 @@ textarea =c pour un champs tres gros
 <textarea rows="5" cols="100"> </textarea>
 
 type email, url, tel ,number, range, color, date, search, checkbox, radio, submit
+
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-88be5bef-60b6-477c-82a2-213a84acb388"></div>

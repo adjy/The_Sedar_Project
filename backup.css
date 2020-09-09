@@ -30,6 +30,8 @@ section
 {
 	
 	background-color: #ccc;
+	
+	
 }
 /*	
 nav
@@ -46,8 +48,11 @@ nav ul
 	list-style-type: none;
 	display:flex;
 	right:100px;
-	position: fixed;
 	top:2px;
+}
+#fin
+{
+	
 }
 nav
 {
@@ -82,6 +87,7 @@ header
 	#bloc_page
 	{
 		width:auto;
+		margin: auto;
 	}
 	nav ul
 	{
@@ -108,6 +114,16 @@ header
 	#photo_about
 	{
 		margin: auto;
+	}
+	#about
+	{
+	display: flex;
+	
+	text-align: center;
+	text-align:justify;
+	margin: auto;
+
+	
 	}
 	
 }
